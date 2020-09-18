@@ -14,6 +14,8 @@
         <mdb-btn color="danger" size="lg">Danger button</mdb-btn>
         <mdb-btn color="warning" size="lg">Warning button</mdb-btn>
         <mdb-btn size="lg">Default button</mdb-btn>
+        <mdb-btn size="lg">Default button</mdb-btn>
+        <mdb-btn type="button" class="btn btn-default peach-gradient btn-rounded ripple-parent">Peach gradient button</mdb-btn>
       </section>
     </section>
     <section class="demo-section">

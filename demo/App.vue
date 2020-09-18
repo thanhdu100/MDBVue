@@ -113,6 +113,9 @@ export default {
 <style>
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
 
+/*Pro css */
+@import url("https://vue.mdbootstrap.com/css/app.02cfa895.css?__WB_REVISION__=32b0d5e604595662e38c");
+
 .flyout {
   display: flex;
   flex-direction: column;
