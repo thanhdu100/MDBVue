@@ -79,6 +79,8 @@ import { mdbMasonryItem } from './components/Layout/MasonryItem'
 import { mdbTreeview } from './components/Plugins/Treeview'
 import { mdbTreeviewItem } from './components/Plugins/TreeviewItem'
 import { mdbRating } from './components/Plugins/Rating'
+import { CkEditor } from './components/Plugins/CkEditor'
+
 import { animateOnScroll, mdbAnimateOnScroll } from './directives/animateOnScroll'
 import { ScrollSpy, mdbScrollSpy } from './directives/scrollSpy'
 import mdbClassMixin from './mixins/mdbClassMixin'
@@ -189,5 +191,6 @@ export {
   mdbWaves,
   waves,
   ScrollSpy,
-  mdbScrollSpy
+  mdbScrollSpy,
+  CkEditor
 }

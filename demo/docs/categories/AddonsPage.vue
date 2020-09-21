@@ -35,6 +35,11 @@
                   Video<mdb-icon icon="angle-right"/>
                 </h5>
               </mdb-nav-item>
+              <mdb-nav-item class="list-group-item list-group-item-action" to="/plugins/ckeditor">
+                <h5 class="justify-content-between d-flex align-items-center">
+                  CkEditor<mdb-icon icon="angle-right"/>
+                </h5>
+              </mdb-nav-item>
             </mdb-list-group>
           </mdb-jumbotron>
         </mdb-col>

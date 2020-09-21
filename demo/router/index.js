@@ -94,6 +94,8 @@ import ScrollSpyPage from '../docs/Directives/ScrollSpyPage'
 import AnimateOnScrollPage from '../docs/Directives/AnimateOnScrollPage'
 import WavesDirectivePage from '../docs/Directives/WavesPage'
 import ClassMixinPage from '../docs/Mixins/ClassPage'
+
+import CkEditor from '../docs/Plugins/CkEditor'
 Vue.use(Router)
 
 export default new Router({
@@ -474,6 +476,10 @@ export default new Router({
       path: '/mixins/class',
       name: 'ClassMixinPage',
       component: ClassMixinPage
-    },
+    },{
+      path: '/plugins/ckeditor',
+      name: 'CkEditor',
+      component: CkEditor
+    }
   ]
 })
